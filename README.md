@@ -1,21 +1,21 @@
 
 <h2 align="center">
-    ──「 AM Group Manager BOT 」──
+    ──「 Dangerous Manager BOT 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://te.legra.ph/file/e256025e395b0417dbd34.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMGroupManagerBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMGroupManagerBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER/stargazers"><img src="https://img.shields.io/github/stars/MAHTO-ANJALI/PRISHUGROUPMANGER?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER/network/members"> <img src="https://img.shields.io/github/forks/MAHTO-ANJALI/PRISHUGROUPMANGER?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMGroupManagerBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER/commits/MAHTO-ANJALI"> <img src="https://img.shields.io/github/last-commit/MAHTO-ANJALI/PRISHUGROUPMANGER?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Features Of AMGroupManagerBOT And Commands ❤️
+## Features Of DangerousManagerBOT And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -96,13 +96,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/AMGroupManagerBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AbhiModszYT/AMGroupManagerBOT/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -114,7 +114,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AMGroupManagerBOT && cd AMGroupManagerBOT`
+`git clone https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER && cd PRISHUGROUPMANGER`
 - Install requirements by :
 `pip3 install -r requirements.txt`
 - Fill your variables in the vars by :
@@ -124,7 +124,7 @@
 - Ctl+x after Y then Enter For Save vars
 - 
 - Now Set all Vars Done After :
-- `screen -S AMGroupManagerBOT`
+- `screen -S PRISHUGROUPMANGER`
 - `python3 -m Am`
 - Now Prees `Ctrl+a`Agen  `Ctrl+d`
 
@@ -135,15 +135,15 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DANGEROUS_FIGHTER_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RBGOFFICIAL1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AMBOTYT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/N3ON_BIO"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 # Owner And Credit
@@ -155,17 +155,17 @@
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/AM_YTBOTT)
+- [PRINCE](https://telegram.dog/N3ON)
 </details>
 
 </h3>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
+<a href="https://github.com/MAHTO-ANJALI"> <img src="https://img.shields.io/badge/MAHTO-ANJALI-black?style=for-the-badge&logo=github" alt="PRINCE" /> </a>
 </p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMGroupManagerBOT&theme=chartreuse-dark"></a>
+<a href="https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHTO-ANJALI&repo=PRISHUGROUPMANGER&theme=chartreuse-dark"></a>
 
 
 
