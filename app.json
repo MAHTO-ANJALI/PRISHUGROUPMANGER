@@ -1,5 +1,5 @@
 {
-    "name": "AmRobot",
+    "name": "PrishuRobot",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -8,7 +8,7 @@
        "manager",
        "Am"
     ],   
- "repository": "https://github.com/AbhiModszYT/AMGroupManagerBOT",
+ "repository": "https://github.com/MAHTO-ANJALI/PRISHUGROUPMANGER",
  "addons": [
     {
        "options": {
@@ -34,12 +34,12 @@
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "3160248"
+       "value": "24295926"
     },
     "API_HASH": {
        "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "da866bcad3446898c4d4a20fa10b9d09"
+       "value": "bb6493ae35ec2bcea928c0a38584ca2e"
     },         
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
@@ -49,12 +49,12 @@
 "EVENT_LOGS": {
        "description": "Your gbans Logs Collect.",
        "required": true,
-       "value": "-1001841879487"
+       "value": "-1002077359484"
     },
     "JOIN_LOGGER": {
        "description": "Your Bot New Group Join logs collet id ",
        "required": true,
-       "value": "-1001841879487"
+       "value": "-1002077359484"
     },
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
@@ -68,27 +68,27 @@
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "AM_YTSUPPORT"
+       "value": "DANGEROUS_FIGHTER_GROUP"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://graph.org/file/c9c43add941dd2eebdfa7.jpg"
+       "value": "https://te.legra.ph/file/e256025e395b0417dbd34.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
        "required": false,
-       "value": "6204761408"
+       "value": "7185571116"
     },
     "INSPECTOR": {
        "description": "A space separated list of user IDs who you want to assign as inspector users.",
        "required": false,
-       "value": "6204761408"
+       "value": "7185571116"
     },
     "REQUESTER": {
        "description": "A space separated list of user IDs who you wanna assign as requester(gban perms only).",
        "required": false,
-       "value": "5360305806"
+       "value": "6677489079"
     },
     "ENV": {
        "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
