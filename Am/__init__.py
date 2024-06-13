@@ -47,12 +47,12 @@ if ENV:
     except ValueError:
         raise Exception("Your requester list does not contain valid integers.")
     try:
-        API_ID = int(os.environ.get("API_ID", "12227067"))
+        API_ID = int(os.environ.get("API_ID", "24295926"))
     except ValueError:
         raise Exception("Your API_ID env variable is not a valid integer.")
 
     try:
-        API_HASH = os.environ.get("API_HASH", "b463bedd791aa733ae2297e6520302fe")
+        API_HASH = os.environ.get("API_HASH", "bb6493ae35ec2bcea928c0a38584ca2e")
     except ValueError:
         raise Exception("Please Add Hash Api key to start the bot")
 
@@ -66,13 +66,13 @@ if ENV:
     PORT = int(os.environ.get("PORT", 5000))
     LOAD = os.environ.get("LOAD", "").split()
     NO_LOAD = os.environ.get("NO_LOAD","").split()
-    UPDATES = os.environ.get("UPDATES","AMBOTYT")
-    BOT_USERNAME = os.environ.get("BOT_USERNAME","AM_YTBOTT")
-    BOT_NAME = os.environ.get("BOT_NAME","Sophia")
-    EVENT_LOGS = os.environ.get("EVENT_LOGS","-1001841879487")
-    JOIN_LOGGER = os.environ.get("JOIN_LOGGER","-1001841879487")
-    CHAT_GROUP = os.environ.get("CHAT_GROUP","AM_YTSUPPORT")
-    GBANS = os.environ.get("GBANS","Logs_Gban")
+    UPDATES = os.environ.get("UPDATES","N3ON_xD")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME","DANGEROUSMANAGEMENTBOT")
+    BOT_NAME = os.environ.get("BOT_NAME","DANGEROUS MANAGEMENT")
+    EVENT_LOGS = os.environ.get("EVENT_LOGS","-1002077359484")
+    JOIN_LOGGER = os.environ.get("JOIN_LOGGER","-1002077359484")
+    CHAT_GROUP = os.environ.get("CHAT_GROUP","DANGEROUS_FIGHTER_GROUP")
+    GBANS = os.environ.get("GBANS","prishuxs")
     PHOTO = os.environ.get("PHOTO","https://graph.org/file/c9c43add941dd2eebdfa7.jpg")
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME","AM_YTBOTT")
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT","AM_YTSUPPORT")
