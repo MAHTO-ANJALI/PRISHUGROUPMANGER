@@ -10,19 +10,19 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = "12227067"
-    API_HASH = "b463bedd791aa733ae2297e6520302fe"
+    API_ID = "24295926"
+    API_HASH = "bb6493ae35ec2bcea928c0a38584ca2e"
     TOKEN = ""
     OWNER_ID = ""
     OWNER_USERNAME = ""
     UPDATES = ""
     BOT_USERNAME = ""
-    SUPPORT_CHAT = "AM_YTSUPPORT"
-    JOIN_LOGGER = "-1001841879487"
-    EVENT_LOGS = "-1001841879487"
+    SUPPORT_CHAT = "DANGEROUS_FIGHTER_GROUP"
+    JOIN_LOGGER = "-1002077359484"
+    EVENT_LOGS = "-1002077359484"
     BOT_USERNAME = ""
     BOT_NAME = ""
-    GBANS = "AMBOTYT" 
+    GBANS = "prishuxs" 
     CHAT_GROUP = ""
     # 
     # DATABASE_URL = "postgres://ixweewbx:9OoB_feF6d6wK1W4YycgwHzRHQXezsNA@arjuna.db.elephantsql.com/ixweewbx"  # sql
@@ -44,7 +44,7 @@ class Config(object):
     WORKERS = 20
     ALLOW_EXCL = True
     ALLOW_CHATS = True
-    PHOTO = "https://graph.org/file/2d3f35226a0d59cbb9980.jpg" # Miss Poppy Music Pic
+    PHOTO = "https://te.legra.ph/file/17d19061f86cb1ebbddec.jpg" # Miss Poppy Music Pic
     INFOPIC = True
 
 
